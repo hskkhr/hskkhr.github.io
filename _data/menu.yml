@@ -1,8 +1,8 @@
 - id: about
-  label: 개발팀 소개
+  label: 작성자 소개
 
 - id: tech
-  label: 테크노트
+  label: 개발일지
 
 - id: life
   label: 소소한 이야기
