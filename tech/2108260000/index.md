@@ -19,7 +19,6 @@ subtitle: 주석화 - polygon방식
 %cd /content/drive/MyDrive/한양도성/detectron2/detectron2_gsm
 ```
 
-    /content/drive/MyDrive/한양도성/detectron2/detectron2_gsm
     
 
 
